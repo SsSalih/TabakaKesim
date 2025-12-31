@@ -1,0 +1,6 @@
+@TabakaKesim_HostAddress = http://localhost:5185
+
+GET {{TabakaKesim_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

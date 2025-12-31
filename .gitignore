@@ -1,0 +1,15 @@
+
+# Dependencies
+node_modules/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Environment variables
+.env
+
+# OS generated files
+Thumbs.db
+.DS_Store
